@@ -61,4 +61,4 @@ Bucin dulu biar engga stress 🥴
 <p align="left">
    <img src="https://raw.githubusercontent.com/lrmn7/images/main/Screenshot-2023-06-14-180605.png" alt="Vercel app">
 </p>
-2. DEMO Yang sudah di Deploy di Netlify : https://ilopyu.is-a.fun or https://lrmn.is-a.fun/bucinin
+2. DEMO Yang sudah di Deploy di Netlify : https://ilopyu.is-a.fun or https://lrmn.is-a.dev/bucinin
